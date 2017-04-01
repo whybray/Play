@@ -1,2 +1,2 @@
 # Play
-Customised clothing maker
+Custom T-shirt maker
