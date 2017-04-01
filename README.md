@@ -1,2 +1,2 @@
 # Play
-Custom T-shirt maker
+Custom t-shirt maker
